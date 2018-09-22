@@ -1,0 +1,43 @@
+_repo: Dix-sept-histoires-de-marins_55111
+_version: 0.0.1
+alternative_title: 17 histoires de marins
+creator:
+  author:
+    agent_name: Farrère, Claude
+    aliases:
+    - Bargone, Frederic Charles Pierre Edouard
+    - Bargone, François Charles
+    - Bargone, Francois Charles
+    - Toulven, Pierre
+    - Bargone, Frédéric Charles Pierre Édouard
+    - Bargone, Charles
+    - Farrere, Claude
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '3805'
+    url: http://www.gutenberg.org/2009/agents/3805
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2017-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55111'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: 'Pour une lectrice -- Leurs amies, grandes et petites: La double
+  méprise de Loreley Loredana. Idylle en masques. La capitane -- Ceux du gaillard
+  d''avant: Perdu corps et biens. L''invraisemblable ratière. 108, Le Duc, ambassadeur.
+  La crapule. La baleinière deux -- Ceux de la grand''chambre: La royale charité.
+  L''amoureuse transie. Histoire de mannequin. Naissance de vaisseau. L''ex-voto de
+  l''acropole -- Service commandé: La tourelle. Dix secondes. Fontenoy -- Comment
+  ils meurent.'
+title: Dix-sept histoires de marins
+url: http://www.gutenberg.org/ebooks/55111
