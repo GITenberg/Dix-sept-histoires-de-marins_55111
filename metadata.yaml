@@ -1,6 +1,9 @@
 _repo: Dix-sept-histoires-de-marins_55111
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 17 histoires de marins
+covers:
+- cover_type: archival
+  image_path: 55111-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrère, Claude
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3805
     wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55111#Dix-sept-histoires-de-marins
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2017-07-14'
 gutenberg_type: Text
